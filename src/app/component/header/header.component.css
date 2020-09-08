@@ -1,0 +1,14 @@
+.header-logo {
+    width: 120px;
+    height: 31px;
+    background: url("./img/cnodejs_light.png") no-repeat;
+    background-size: contain;
+    padding: 0;
+    margin: 16px 24px;
+    float: left;
+}
+
+.header-search {
+    padding-top: 12px;
+    height: 31px;
+}
