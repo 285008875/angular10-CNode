@@ -1,15 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-good',
-  templateUrl: './good.component.html',
-  styleUrls: ['./good.component.css']
+    selector: 'app-good',
+    templateUrl: './good.component.html',
+    styleUrls: ['./good.component.css']
 })
 export class GoodComponent implements OnInit {
 
-  constructor() { }
+    constructor() { }
 
-  ngOnInit(): void {
-  }
+    ngOnInit(): void {
+    }
 
 }
