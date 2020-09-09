@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
     selector: 'app-container',
     templateUrl: './container.component.html',
     styles: [`
-        nz-content {
+        nz-content { 
             padding: 0 50px;
         }
 `],
