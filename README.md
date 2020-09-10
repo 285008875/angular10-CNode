@@ -1,4 +1,10 @@
-# angular10+antds 仿 CNode 社区
+# angular10 + antd + rxjs 仿 CNode 社区
+
+# 更新可能不会太快，最近有点忙
+
+#主要学习angular10相关技术栈
+
+#hello world zga2:1
 
 # CNode
 
