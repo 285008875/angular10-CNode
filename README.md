@@ -4,11 +4,7 @@
 
 #主要学习angular10相关技术栈
 
-<<<<<<< HEAD
 #hello world zga2:1
-=======
-#hello world 6
->>>>>>> zga1
 
 # CNode
 
