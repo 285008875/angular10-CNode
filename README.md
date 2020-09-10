@@ -4,7 +4,7 @@
 
 #主要学习angular10相关技术栈
 
-#hello world 4
+#hello world 6
 
 # CNode
 
