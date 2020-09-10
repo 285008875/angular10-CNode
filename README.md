@@ -4,7 +4,7 @@
 
 #主要学习angular10相关技术栈
 
-#hello world 7
+#hello world zga2:1
 
 # CNode
 
