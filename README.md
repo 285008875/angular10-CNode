@@ -1,4 +1,6 @@
-# angular10+antds 仿 CNode 社区
+# angular10 + antd + rxjs 仿 CNode 社区
+
+# 更新可能不会太快，最近有点忙
 
 # CNode
 
